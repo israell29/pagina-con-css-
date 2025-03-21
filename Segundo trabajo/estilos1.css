@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+  
+  .secciongrid{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%;
+  }
+  
+  .cajanegra{
+    align-items: center;
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    color: white;
+    display: flex;
+    font-size: 20px;
+    height: 110px;
+    justify-content: center;
+    width: 510px;
+  }
+  
+
+
+

@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body > div  {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.secciongrid {
+    display: flex; 
+    gap: 15vh;
+}
+
+.cajanegra {
+    width: 450px;
+    height: 350px; 
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    justify-content: center;
+
+    color: white;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+
+
+.cajablanca {
+    width: 450px;
+    height: 350px; 
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    font-size: 18px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+

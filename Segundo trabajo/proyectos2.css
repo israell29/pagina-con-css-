@@ -1,0 +1,61 @@
+.secciongrid{
+    display: flex;
+    gap: 40vh;
+    justify-content: flex-end;
+    padding-top: 40px;
+    margin-right: 50px;
+    height: 100vh;
+
+}
+
+.cajanegra{
+    background-color:rgb(0, 0, 0);
+    border-radius: 15px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    color: white;
+    height: 340px;
+    width: 620px;
+    text-align: center;
+
+}
+
+
+
+.cajablanca{
+    background-color:rgb(10, 48, 73);
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    color: white;
+    height: 149vh;
+    width: 520px;
+    position: relative; 
+    top: -40px; 
+
+ 
+ 
+}
+
+.seccioncolum{
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+
+
+}
+
+.cajazul{
+    background-color:rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px 5px rgb(151, 151, 226);
+    color: white;
+    height: 430px;
+    width: 565px;
+    position: relative; 
+    top: -35vh;
+
+
+ 
+ 
+}
+
+
